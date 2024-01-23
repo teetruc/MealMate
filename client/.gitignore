@@ -2,6 +2,8 @@
 node_modules
 /dist
 
+../server/appsettings.json
+../server/appsettings.Development.json
 
 # local env files
 .env.local
