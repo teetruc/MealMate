@@ -1,4 +1,4 @@
-# MealMate front-end :)
+# my-project
 
 ## Project setup
 ```
